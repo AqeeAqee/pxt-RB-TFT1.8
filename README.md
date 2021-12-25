@@ -1,3 +1,5 @@
+test OK with aqee ST7735S(red board with SD)
+
 # MakeCode Package for the RB-TFT1.8 (ST7735 1.8" TFT Display).
 
 This library provides a Microsoft Makecode package for the Joy-IT RB-TFT1.8 ST7735 module.
